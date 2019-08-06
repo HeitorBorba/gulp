@@ -1,0 +1,1 @@
+function somar(r,n){return r+n}function subtrair(r,n){return r-n}var a=20,b=100,c=b+a;console.log(c);
